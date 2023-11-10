@@ -40,7 +40,7 @@ a {
 
 /* Header styles*/
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -51,7 +51,7 @@ a {
     color: #d9dcd6;
 }
 
-.header-links {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -59,11 +59,11 @@ a {
     font-size: 20px;
 }
 
-.header-links ul {
+nav ul {
     list-style-type: none;
 }
 
-.header-links ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -136,7 +136,7 @@ a {
 
 /* Footer styles */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
