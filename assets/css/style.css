@@ -70,7 +70,7 @@ nav ul li {
 
 /* Main Image */
 
-.main-image {
+main {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -87,7 +87,7 @@ nav ul li {
     margin-left: 20px;
 }
 
-.content-section {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -96,7 +96,7 @@ nav ul li {
     color: #ffffff;
 }
 
-.content-section img {
+article img {
     max-height: 200px;
 }
 
@@ -123,12 +123,12 @@ nav ul li {
     background-color: #2589bd;
 }
 
-.benefit-section {
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-section img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
