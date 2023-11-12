@@ -123,12 +123,12 @@ article img {
     background-color: #2589bd;
 }
 
-aside {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
